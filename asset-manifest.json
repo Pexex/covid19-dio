@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/covid19-dio/static/js/main.51375955.js",
+    "static/media/covid.jpg": "/covid19-dio/static/media/covid.53cfdf156cd1d18cd291.jpg",
+    "index.html": "/covid19-dio/index.html",
+    "static/media/refresh.svg": "/covid19-dio/static/media/refresh.6370dfaa527cd227256755624dfc2041.svg",
+    "main.51375955.js.map": "/covid19-dio/static/js/main.51375955.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.51375955.js"
+  ]
+}
